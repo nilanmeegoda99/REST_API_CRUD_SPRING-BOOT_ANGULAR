@@ -13,11 +13,11 @@ CoronaPatients_PearsonTest folder contains mainly two sections,
 
 * First open the project folder with eclipse and dependencies that I have used in backend development are 
 
-    spring-boot-starter-data-jpa
-    spring-boot-starter-web
-    spring-boot-starter-web-services
-    javax.validation
-    h2
+    spring-boot-starter-data-jpa | 
+    spring-boot-starter-web | 
+    spring-boot-starter-web-services | 
+    javax.validation |
+    h2 database | 
 
 * RUN the project as a Spring Boot Application
  
